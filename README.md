@@ -1,5 +1,5 @@
-# PyTorch Template Project
-PyTorch deep learning project made easy.
+# Radar-based-Human-Activity-Recognition-using-Deep-Learning-Models
+This individual project mainly focuses on developing efficient machine learning techniques on radar signatures to classify people’s activities, which are recorded by radar and presented in the “Radar signatures of human activities” open dataset by the University of Glasgow. The primary aim is to develop the computing system in healthcare to provide proactive and timely assistance for people, especially the elders.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
